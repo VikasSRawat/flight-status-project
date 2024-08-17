@@ -1,0 +1,27 @@
+# Node.js
+flight-status-frontend/node_modules/
+flight-status-frontend/build/
+flight-status-frontend/.pnp
+flight-status-frontend/.pnp.js
+flight-status-frontend/coverage
+flight-status-frontend/build
+flight-status-frontend/.DS_Store
+flight-status-frontend/.env.local
+flight-status-frontend/.env.development.local
+flight-status-frontend/.env.test.local
+flight-status-frontend/.env.production.local
+flight-status-frontend/npm-debug.log*
+flight-status-frontend/yarn-debug.log*
+flight-status-frontend/yarn-error.log*
+
+# Python
+flight-status-backend/venv/
+flight-status-backend/__pycache__/
+flight-status-backend/controllers/__pycache__/
+flight-status-backend/models/__pycache__/
+flight-status-backend/routes/__pycache__/
+flight-status-backend/services/__pycache__/
+flight-status-backend/venv/
+
+# Environment Files
+*.env
